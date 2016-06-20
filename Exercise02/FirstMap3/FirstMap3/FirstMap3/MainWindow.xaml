@@ -1,0 +1,11 @@
+﻿<Window x:Class="FirstMap3.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:i="clr-namespace:System.Windows.Forms.Integration;assembly=WindowsFormsIntegration"
+        Title="MainWindow" Height="350" Width="525" Loaded="Window_Loaded">
+    <Grid>
+        <WindowsFormsHost Height="255" HorizontalAlignment="Left" Margin="0,44,0,0" Name="tocHost" VerticalAlignment="Top" Width="113" DataContext="{Binding}" />
+        <WindowsFormsHost Height="48" HorizontalAlignment="Left" Name="toolbarHost" VerticalAlignment="Top" Width="464" />
+        <WindowsFormsHost Height="255" HorizontalAlignment="Left" Margin="110,44,0,0" Name="mapHost" VerticalAlignment="Top" Width="381" />
+    </Grid>
+</Window>

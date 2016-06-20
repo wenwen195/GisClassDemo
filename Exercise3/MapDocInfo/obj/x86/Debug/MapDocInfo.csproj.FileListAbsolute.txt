@@ -1,0 +1,13 @@
+C:\IPAN\Exercise3\MapDocInfo\bin\Debug\MapDocInfo.exe
+C:\IPAN\Exercise3\MapDocInfo\bin\Debug\MapDocInfo.pdb
+C:\IPAN\Exercise3\MapDocInfo\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\IPAN\Exercise3\MapDocInfo\obj\x86\Debug\MainWindow.baml
+C:\IPAN\Exercise3\MapDocInfo\obj\x86\Debug\MainWindow.g.cs
+C:\IPAN\Exercise3\MapDocInfo\obj\x86\Debug\App.g.cs
+C:\IPAN\Exercise3\MapDocInfo\obj\x86\Debug\MapDocInfo_MarkupCompile.cache
+C:\IPAN\Exercise3\MapDocInfo\obj\x86\Debug\MapDocInfo.g.resources
+C:\IPAN\Exercise3\MapDocInfo\obj\x86\Debug\MapDocInfo.Properties.Resources.resources
+C:\IPAN\Exercise3\MapDocInfo\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\IPAN\Exercise3\MapDocInfo\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\IPAN\Exercise3\MapDocInfo\obj\x86\Debug\MapDocInfo.exe
+C:\IPAN\Exercise3\MapDocInfo\obj\x86\Debug\MapDocInfo.pdb

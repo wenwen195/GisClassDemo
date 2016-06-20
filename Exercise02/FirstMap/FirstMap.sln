@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FirstMap", "FirstMap\FirstMap.csproj", "{A475C7A4-D69A-411F-8BDE-E4BEAA1C0E20}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A475C7A4-D69A-411F-8BDE-E4BEAA1C0E20}.Debug|x86.ActiveCfg = Debug|x86
+		{A475C7A4-D69A-411F-8BDE-E4BEAA1C0E20}.Debug|x86.Build.0 = Debug|x86
+		{A475C7A4-D69A-411F-8BDE-E4BEAA1C0E20}.Release|x86.ActiveCfg = Release|x86
+		{A475C7A4-D69A-411F-8BDE-E4BEAA1C0E20}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

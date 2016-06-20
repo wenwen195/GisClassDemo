@@ -1,0 +1,16 @@
+bin\Debug\DisplayingData.exe
+bin\Debug\DisplayingData.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\DisplayingData.MainForm.resources
+obj\Debug\DisplayingData.Properties.Resources.resources
+obj\Debug\DisplayingData.csproj.GenerateResource.Cache
+obj\Debug\DisplayingData.exe
+obj\Debug\DisplayingData.pdb
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\DisplayingData.MainForm.resources
+obj\Release\DisplayingData.Properties.Resources.resources
+obj\Release\DisplayingData.csproj.GenerateResource.Cache
+bin\Release\DisplayingData.exe
+bin\Release\DisplayingData.pdb
+obj\Release\DisplayingData.exe
+obj\Release\DisplayingData.pdb

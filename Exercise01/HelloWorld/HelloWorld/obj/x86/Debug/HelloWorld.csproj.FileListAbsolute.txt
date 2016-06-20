@@ -1,0 +1,13 @@
+C:\IPAN\Exercise01\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe
+C:\IPAN\Exercise01\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
+C:\IPAN\Exercise01\HelloWorld\HelloWorld\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\IPAN\Exercise01\HelloWorld\HelloWorld\obj\x86\Debug\MainWindow.baml
+C:\IPAN\Exercise01\HelloWorld\HelloWorld\obj\x86\Debug\MainWindow.g.cs
+C:\IPAN\Exercise01\HelloWorld\HelloWorld\obj\x86\Debug\App.g.cs
+C:\IPAN\Exercise01\HelloWorld\HelloWorld\obj\x86\Debug\HelloWorld_MarkupCompile.cache
+C:\IPAN\Exercise01\HelloWorld\HelloWorld\obj\x86\Debug\HelloWorld.g.resources
+C:\IPAN\Exercise01\HelloWorld\HelloWorld\obj\x86\Debug\HelloWorld.Properties.Resources.resources
+C:\IPAN\Exercise01\HelloWorld\HelloWorld\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\IPAN\Exercise01\HelloWorld\HelloWorld\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\IPAN\Exercise01\HelloWorld\HelloWorld\obj\x86\Debug\HelloWorld.exe
+C:\IPAN\Exercise01\HelloWorld\HelloWorld\obj\x86\Debug\HelloWorld.pdb

@@ -1,0 +1,8 @@
+﻿<Window x:Class="FirstMap6.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="440" Width="635">
+    <Grid>
+        <WindowsFormsHost Height="330" HorizontalAlignment="Left" Margin="95,49,0,0" Name="mapHost" VerticalAlignment="Top" Width="506" Loaded="mapHost_Loaded" />
+    </Grid>
+</Window>

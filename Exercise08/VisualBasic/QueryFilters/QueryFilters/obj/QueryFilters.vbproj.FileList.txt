@@ -1,0 +1,12 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\QueryFilters.MainForm.resources
+obj\Debug\QueryFilters.Resources.resources
+obj\Debug\QueryFilters.vbproj.GenerateResource.Cache
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\QueryFilters.MainForm.resources
+obj\Release\QueryFilters.Resources.resources
+obj\Release\QueryFilters.vbproj.GenerateResource.Cache
+bin\Debug\QueryFilters.exe
+bin\Debug\QueryFilters.pdb
+obj\Debug\QueryFilters.exe
+obj\Debug\QueryFilters.pdb

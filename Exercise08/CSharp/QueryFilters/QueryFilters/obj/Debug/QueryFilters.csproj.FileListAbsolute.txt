@@ -1,0 +1,10 @@
+E:\Student\IPAN\Exercise08\CSharp\QueryFilters\QueryFilters\obj\Debug\QueryFilters.csproj.GenerateResource.Cache
+E:\Student\IPAN\Exercise08\CSharp\QueryFilters\QueryFilters\bin\Debug\QueryFilters.exe
+E:\Student\IPAN\Exercise08\CSharp\QueryFilters\QueryFilters\bin\Debug\QueryFilters.pdb
+E:\Student\IPAN\Exercise08\CSharp\QueryFilters\QueryFilters\bin\Debug\ESRI.ArcGIS.ADF.dll
+E:\Student\IPAN\Exercise08\CSharp\QueryFilters\QueryFilters\bin\Debug\ESRI.ArcGIS.ADF.xml
+E:\Student\IPAN\Exercise08\CSharp\QueryFilters\QueryFilters\obj\Debug\QueryFilters.MainForm.resources
+E:\Student\IPAN\Exercise08\CSharp\QueryFilters\QueryFilters\obj\Debug\QueryFilters.Properties.Resources.resources
+E:\Student\IPAN\Exercise08\CSharp\QueryFilters\QueryFilters\obj\Debug\QueryFilters.exe
+E:\Student\IPAN\Exercise08\CSharp\QueryFilters\QueryFilters\obj\Debug\QueryFilters.pdb
+E:\Student\IPAN\Exercise08\CSharp\QueryFilters\QueryFilters\obj\Debug\QueryFilters.csprojResolveAssemblyReference.cache

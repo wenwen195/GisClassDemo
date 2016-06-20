@@ -1,0 +1,12 @@
+﻿<Window x:Class="MapDocInfo.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="425" Width="672" Loaded="Window_Loaded">
+    <Grid>
+        <WindowsFormsHost Height="330" HorizontalAlignment="Left" Margin="85,56,0,0" Name="mapControlHost" VerticalAlignment="Top" Width="565" />
+        <WindowsFormsHost Height="328" HorizontalAlignment="Left" Margin="6,58,0,0" Name="tocHost" VerticalAlignment="Top" Width="81" />
+        <WindowsFormsHost Height="40" HorizontalAlignment="Left" Margin="6,12,0,0" Name="toolbarHost" VerticalAlignment="Top" Width="393" />
+        <Button Content="Information" Height="36" HorizontalAlignment="Left" Margin="424,16,0,0" Name="btnInfo" VerticalAlignment="Top" Width="102" Click="btnInfo_Click" />
+        <Button Content="Dispaly Label" Height="34" HorizontalAlignment="Left" Margin="532,18,0,0" Name="btnLabel" VerticalAlignment="Top" Width="98" Click="btnLabel_Click" />
+    </Grid>
+</Window>

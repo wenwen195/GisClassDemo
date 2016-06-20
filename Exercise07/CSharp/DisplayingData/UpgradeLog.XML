@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="DisplayingData">
+</Property><Property Name="Solution File" Value="F:\Student\IPAN\Exercise07\CSharp\DisplayingData\DisplayingData.sln">
+</Property><Property Name="User Options File" Value="F:\Student\IPAN\Exercise07\CSharp\DisplayingData\DisplayingData.suo">
+</Property><Property Name="Date" Value="2011年8月20日">
+</Property><Property Name="Time" Value="21:16">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="DisplayingData.sln" Description="File successfully backed up as F:\Student\IPAN\Exercise07\CSharp\DisplayingData\Backup\DisplayingData.sln">
+</Event><Event ErrorLevel="0" Project="" Source="DisplayingData.suo" Description="File successfully backed up as F:\Student\IPAN\Exercise07\CSharp\DisplayingData\Backup\DisplayingData.suo">
+</Event><Event ErrorLevel="0" Project="DisplayingData" Source="DisplayingData\DisplayingData.csproj" Description="Project file successfully backed up as F:\Student\IPAN\Exercise07\CSharp\DisplayingData\Backup\DisplayingData\DisplayingData.csproj">
+</Event><Event ErrorLevel="0" Project="DisplayingData" Source="DisplayingData\CreateNewDocument.cs" Description="File successfully backed up as F:\Student\IPAN\Exercise07\CSharp\DisplayingData\Backup\DisplayingData\CreateNewDocument.cs">
+</Event><Event ErrorLevel="0" Project="DisplayingData" Source="DisplayingData\MainForm.cs" Description="File successfully backed up as F:\Student\IPAN\Exercise07\CSharp\DisplayingData\Backup\DisplayingData\MainForm.cs">
+</Event><Event ErrorLevel="0" Project="DisplayingData" Source="DisplayingData\MainForm.Designer.cs" Description="File successfully backed up as F:\Student\IPAN\Exercise07\CSharp\DisplayingData\Backup\DisplayingData\MainForm.Designer.cs">
+</Event><Event ErrorLevel="0" Project="DisplayingData" Source="DisplayingData\Program.cs" Description="File successfully backed up as F:\Student\IPAN\Exercise07\CSharp\DisplayingData\Backup\DisplayingData\Program.cs">
+</Event><Event ErrorLevel="0" Project="DisplayingData" Source="DisplayingData\Properties\AssemblyInfo.cs" Description="File successfully backed up as F:\Student\IPAN\Exercise07\CSharp\DisplayingData\Backup\DisplayingData\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="DisplayingData" Source="DisplayingData\Properties\Resources.Designer.cs" Description="File successfully backed up as F:\Student\IPAN\Exercise07\CSharp\DisplayingData\Backup\DisplayingData\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="DisplayingData" Source="DisplayingData\Properties\Settings.Designer.cs" Description="File successfully backed up as F:\Student\IPAN\Exercise07\CSharp\DisplayingData\Backup\DisplayingData\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="DisplayingData" Source="DisplayingData\ClassDiagram1.cd" Description="File successfully backed up as F:\Student\IPAN\Exercise07\CSharp\DisplayingData\Backup\DisplayingData\ClassDiagram1.cd">
+</Event><Event ErrorLevel="0" Project="DisplayingData" Source="DisplayingData\Properties\Settings.settings" Description="File successfully backed up as F:\Student\IPAN\Exercise07\CSharp\DisplayingData\Backup\DisplayingData\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="DisplayingData" Source="DisplayingData\App.ico" Description="File successfully backed up as F:\Student\IPAN\Exercise07\CSharp\DisplayingData\Backup\DisplayingData\App.ico">
+</Event><Event ErrorLevel="0" Project="DisplayingData" Source="DisplayingData\Earth.ico" Description="File successfully backed up as F:\Student\IPAN\Exercise07\CSharp\DisplayingData\Backup\DisplayingData\Earth.ico">
+</Event><Event ErrorLevel="0" Project="DisplayingData" Source="DisplayingData\MainForm.resx" Description="File successfully backed up as F:\Student\IPAN\Exercise07\CSharp\DisplayingData\Backup\DisplayingData\MainForm.resx">
+</Event><Event ErrorLevel="0" Project="DisplayingData" Source="DisplayingData\Properties\Resources.resx" Description="File successfully backed up as F:\Student\IPAN\Exercise07\CSharp\DisplayingData\Backup\DisplayingData\Properties\Resources.resx">
+</Event><Event ErrorLevel="1" Project="DisplayingData" Source="DisplayingData\DisplayingData.csproj" Description="Your project is targeting .NET Framework 2.0 or 3.0. If your project uses assemblies requiring a newer .NET Framework, your project will fail to build. You can change the .NET Framework version by clicking Properties on the project menu and then selecting a new version in the '.NET Framework' dropdown box. (In Visual Basic, this is located on the Compile tab by clicking the 'Advanced Compiler Options...' button.)">
+</Event><Event ErrorLevel="0" Project="DisplayingData" Source="DisplayingData\DisplayingData.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="DisplayingData" Source="DisplayingData\DisplayingData.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="DisplayingData.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="DisplayingData.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="DisplayingData" Source="DisplayingData\DisplayingData.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

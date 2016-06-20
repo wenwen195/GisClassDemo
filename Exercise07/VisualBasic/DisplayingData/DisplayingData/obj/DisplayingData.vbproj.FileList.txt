@@ -1,0 +1,8 @@
+bin\Debug\DisplayingData.exe
+bin\Debug\DisplayingData.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\DisplayingData.MainForm.resources
+obj\Debug\DisplayingData.Resources.resources
+obj\Debug\DisplayingData.vbproj.GenerateResource.Cache
+obj\Debug\DisplayingData.exe
+obj\Debug\DisplayingData.pdb

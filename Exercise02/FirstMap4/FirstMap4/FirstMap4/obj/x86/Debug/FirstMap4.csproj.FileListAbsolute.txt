@@ -1,0 +1,12 @@
+E:\Student\IPAN\Exercise02\FirstMap4\FirstMap4\FirstMap4\obj\x86\Debug\MainWindow.baml
+E:\Student\IPAN\Exercise02\FirstMap4\FirstMap4\FirstMap4\obj\x86\Debug\MainWindow.g.cs
+E:\Student\IPAN\Exercise02\FirstMap4\FirstMap4\FirstMap4\obj\x86\Debug\App.g.cs
+E:\Student\IPAN\Exercise02\FirstMap4\FirstMap4\FirstMap4\obj\x86\Debug\FirstMap4_MarkupCompile.cache
+E:\Student\IPAN\Exercise02\FirstMap4\FirstMap4\FirstMap4\obj\x86\Debug\FirstMap4.g.resources
+E:\Student\IPAN\Exercise02\FirstMap4\FirstMap4\FirstMap4\obj\x86\Debug\FirstMap4.Properties.Resources.resources
+E:\Student\IPAN\Exercise02\FirstMap4\FirstMap4\FirstMap4\obj\x86\Debug\FirstMap4.csproj.GenerateResource.Cache
+E:\Student\IPAN\Exercise02\FirstMap4\FirstMap4\FirstMap4\bin\Debug\FirstMap4.exe
+E:\Student\IPAN\Exercise02\FirstMap4\FirstMap4\FirstMap4\bin\Debug\FirstMap4.pdb
+E:\Student\IPAN\Exercise02\FirstMap4\FirstMap4\FirstMap4\obj\x86\Debug\FirstMap4.exe
+E:\Student\IPAN\Exercise02\FirstMap4\FirstMap4\FirstMap4\obj\x86\Debug\FirstMap4.pdb
+E:\Student\IPAN\Exercise02\FirstMap4\FirstMap4\FirstMap4\obj\x86\Debug\FirstMap4.csprojResolveAssemblyReference.cache

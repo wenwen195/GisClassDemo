@@ -1,0 +1,13 @@
+F:\Student\IPAN\Exercise07\CSharp\DisplayingData\DisplayingData\obj\Debug\DisplayingData.exe
+F:\Student\IPAN\Exercise07\CSharp\DisplayingData\DisplayingData\obj\Debug\DisplayingData.pdb
+F:\Student\IPAN\Exercise07\CSharp\DisplayingData\DisplayingData\bin\Debug\DisplayingData.exe
+F:\Student\IPAN\Exercise07\CSharp\DisplayingData\DisplayingData\bin\Debug\DisplayingData.pdb
+F:\Student\IPAN\Exercise07\CSharp\DisplayingData\DisplayingData\obj\Debug\ResolveAssemblyReference.cache
+F:\Student\IPAN\Exercise07\CSharp\DisplayingData\DisplayingData\obj\Debug\DisplayingData.MainForm.resources
+F:\Student\IPAN\Exercise07\CSharp\DisplayingData\DisplayingData\obj\Debug\DisplayingData.Properties.Resources.resources
+F:\Student\IPAN\Exercise07\CSharp\DisplayingData\DisplayingData\obj\Debug\ResGen.read.1.tlog
+F:\Student\IPAN\Exercise07\CSharp\DisplayingData\DisplayingData\obj\Debug\ResGen.write.1.tlog
+E:\Student\IPAN\Exercise07\CSharp\DisplayingData\DisplayingData\obj\Debug\DisplayingData.exe
+E:\Student\IPAN\Exercise07\CSharp\DisplayingData\DisplayingData\obj\Debug\DisplayingData.pdb
+E:\Student\IPAN\Exercise07\CSharp\DisplayingData\DisplayingData\obj\Debug\DisplayingData.csprojResolveAssemblyReference.cache
+E:\Student\IPAN\Exercise07\CSharp\DisplayingData\DisplayingData\obj\Debug\DisplayingData.csproj.GenerateResource.Cache

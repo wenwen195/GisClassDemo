@@ -1,0 +1,11 @@
+E:\Student\IPAN\Exercise07\DisplayLayers2016\DisplayLayers2016\bin\Debug\DisplayLayers2016.exe
+E:\Student\IPAN\Exercise07\DisplayLayers2016\DisplayLayers2016\bin\Debug\DisplayLayers2016.pdb
+E:\Student\IPAN\Exercise07\DisplayLayers2016\DisplayLayers2016\obj\x86\Debug\MainWindow.baml
+E:\Student\IPAN\Exercise07\DisplayLayers2016\DisplayLayers2016\obj\x86\Debug\MainWindow.g.cs
+E:\Student\IPAN\Exercise07\DisplayLayers2016\DisplayLayers2016\obj\x86\Debug\App.g.cs
+E:\Student\IPAN\Exercise07\DisplayLayers2016\DisplayLayers2016\obj\x86\Debug\DisplayLayers2016_MarkupCompile.cache
+E:\Student\IPAN\Exercise07\DisplayLayers2016\DisplayLayers2016\obj\x86\Debug\DisplayLayers2016.g.resources
+E:\Student\IPAN\Exercise07\DisplayLayers2016\DisplayLayers2016\obj\x86\Debug\DisplayLayers2016.Properties.Resources.resources
+E:\Student\IPAN\Exercise07\DisplayLayers2016\DisplayLayers2016\obj\x86\Debug\DisplayLayers2016.csproj.GenerateResource.Cache
+E:\Student\IPAN\Exercise07\DisplayLayers2016\DisplayLayers2016\obj\x86\Debug\DisplayLayers2016.exe
+E:\Student\IPAN\Exercise07\DisplayLayers2016\DisplayLayers2016\obj\x86\Debug\DisplayLayers2016.pdb

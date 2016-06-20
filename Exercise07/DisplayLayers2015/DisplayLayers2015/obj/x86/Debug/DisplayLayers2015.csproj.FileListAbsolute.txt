@@ -1,0 +1,7 @@
+E:\Student\IPAN\Exercise07\DisplayLayers2015\DisplayLayers2015\bin\Debug\DisplayLayers2015.exe
+E:\Student\IPAN\Exercise07\DisplayLayers2015\DisplayLayers2015\bin\Debug\DisplayLayers2015.pdb
+E:\Student\IPAN\Exercise07\DisplayLayers2015\DisplayLayers2015\obj\x86\Debug\DisplayLayers2015.mainForm.resources
+E:\Student\IPAN\Exercise07\DisplayLayers2015\DisplayLayers2015\obj\x86\Debug\DisplayLayers2015.Properties.Resources.resources
+E:\Student\IPAN\Exercise07\DisplayLayers2015\DisplayLayers2015\obj\x86\Debug\DisplayLayers2015.csproj.GenerateResource.Cache
+E:\Student\IPAN\Exercise07\DisplayLayers2015\DisplayLayers2015\obj\x86\Debug\DisplayLayers2015.exe
+E:\Student\IPAN\Exercise07\DisplayLayers2015\DisplayLayers2015\obj\x86\Debug\DisplayLayers2015.pdb

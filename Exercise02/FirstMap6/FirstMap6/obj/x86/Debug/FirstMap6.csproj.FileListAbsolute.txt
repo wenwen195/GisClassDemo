@@ -1,0 +1,14 @@
+C:\IPAN\Exercise02\FirstMap6\FirstMap6\obj\x86\Debug\FirstMap6.csproj.ResolveComReference.cache
+C:\IPAN\Exercise02\FirstMap6\FirstMap6\bin\Debug\FirstMap6.exe
+C:\IPAN\Exercise02\FirstMap6\FirstMap6\bin\Debug\FirstMap6.pdb
+C:\IPAN\Exercise02\FirstMap6\FirstMap6\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\IPAN\Exercise02\FirstMap6\FirstMap6\obj\x86\Debug\MainWindowForm.baml
+C:\IPAN\Exercise02\FirstMap6\FirstMap6\obj\x86\Debug\MainWindowForm.g.cs
+C:\IPAN\Exercise02\FirstMap6\FirstMap6\obj\x86\Debug\App.g.cs
+C:\IPAN\Exercise02\FirstMap6\FirstMap6\obj\x86\Debug\FirstMap6_MarkupCompile.cache
+C:\IPAN\Exercise02\FirstMap6\FirstMap6\obj\x86\Debug\FirstMap6.g.resources
+C:\IPAN\Exercise02\FirstMap6\FirstMap6\obj\x86\Debug\FirstMap6.Properties.Resources.resources
+C:\IPAN\Exercise02\FirstMap6\FirstMap6\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\IPAN\Exercise02\FirstMap6\FirstMap6\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\IPAN\Exercise02\FirstMap6\FirstMap6\obj\x86\Debug\FirstMap6.exe
+C:\IPAN\Exercise02\FirstMap6\FirstMap6\obj\x86\Debug\FirstMap6.pdb
